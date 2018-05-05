@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/thebigredgeek/apollo-resolvers#readme",
   "dependencies": {
+    "@types/es6-shim": "^0.31.36",
     "assert": "^1.4.1",
     "deepmerge": "^1.3.1"
   },
